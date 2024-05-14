@@ -2,7 +2,21 @@
 
 All notable changes compare to upstream will be documented in this file.
 
-## [2.1.0-nordix1] - 2024-04-03
+## 2.1.0-nordix2 (2024-05-14)
+
+This release is based on https://github.com/ninenines/gun/releases/tag/2.1.0
+with the following PRs included:
+
+- "Include event handler state in gun:info/1 result"
+  https://github.com/ninenines/gun/pull/336
+
+- All PRs included in 2.1.0-nordix1.
+
+The cowlib dependency is updated to:
+https://github.com/Nordix/cowlib/releases/tag/2.13.0-nordix2
+
+
+## 2.1.0-nordix1 (2024-04-03)
 
 This release is based on https://github.com/ninenines/gun/releases/tag/2.1.0
 with the following PRs included:
