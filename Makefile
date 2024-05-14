@@ -15,7 +15,7 @@ CT_OPTS += -ct_hooks gun_ct_hook [] # -boot start_sasl
 LOCAL_DEPS = public_key ssl
 
 DEPS = cowlib
-dep_cowlib = git https://github.com/Nordix/cowlib 2.13.0-nordix1
+dep_cowlib = git https://github.com/Nordix/cowlib 2.13.0-nordix2
 
 DOC_DEPS = asciideck
 
