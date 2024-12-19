@@ -2,6 +2,17 @@
 
 All notable changes compare to upstream will be documented in this file.
 
+## 2.1.0-nordix3 (2024-12-19)
+
+This release is based on https://github.com/ninenines/gun/releases/tag/2.1.0
+with the following PRs included:
+
+- "Add gun:ping/2,3 for user-initiated ping for HTTP/2"
+  https://github.com/ninenines/gun/pull/343
+
+- All PRs included in 2.1.0-nordix2.
+
+
 ## 2.1.0-nordix2 (2024-05-14)
 
 This release is based on https://github.com/ninenines/gun/releases/tag/2.1.0
